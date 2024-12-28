@@ -19,7 +19,7 @@
 
 ## 📫 How to Reach Me:
 - Feel free to email me: **[arnavsen999@gmail.com](mailto:arnavsen999@gmail.com)** 📧
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/arnavsen/)
+- Connect with me on [LinkedIn]([https://www.linkedin.com/in/arnavsen/](https://in.linkedin.com/in/arnavsen2468?original_referer=https%3A%2F%2Fwww.google.com%2F))
 
 ## ⚡ Fun Fact:
 - I love to **drink water**, **coffee**, and **watch trees** 🌳☕💧
