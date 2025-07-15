@@ -1,35 +1,34 @@
-# 👋 Hi, I'm [@Arnav400](https://github.com/Arnav400) Sen
+# 👋 Hey, I'm Arnav Sen (@Arnav400)
 
-🌍 I'm a passionate **developer** with a love for solving problems through code!
+I'm a developer who enjoys solving real problems with clean, efficient code. Whether it's building useful tools, exploring new tech, or just trying to make sense of bugs at 11PM (yup I try to sleep early) — I’m in it for the learning.
 
-## 👀 What I’m Interested In:
-- **0s and 1s** (yes, I’m all about binary code) 💻
-- **Technology** and how it shapes the world 🌐
-- **Building real-world applications** that make a difference
+## 🔍 Interests
+- Systems that work well and look good doing it  
+- Clean code, clever optimizations, and solid architecture  
+- Real-world applications that aren't just "cool" but *useful*
 
-## 🌱 Currently Learning:
-- **Web Development** (React, Node.js, etc.)
-- **Software Engineering** best practices
-- Exploring new frameworks and tech stacks to stay updated 🔧
+## 📚 Currently Learning
+- Deep-diving into **React**, **Node.js**, and modern web dev stacks  
+- Software engineering principles that scale beyond side projects  
+- Sharpening my **DSA** and (a bit , like salt in food)**systems design** chops
 
-## 💞️ Looking to Collaborate On:
-- Open-source projects 🛠️
-- **Real-world applications** that can have a positive impact 🌟
-- Anything that challenges me and adds to my growth 📈
+## 🤝 Open to Collaborate On
+- Interesting open-source projects  
+- Anything that mixes creativity with logic  
+- Tools that solve small but real pain points for devs or users
 
-## 📫 How to Reach Me:
-- Feel free to email me: **[arnavsen999@gmail.com](mailto:arnavsen999@gmail.com)** 📧
-- Connect with me on [LinkedIn](https://in.linkedin.com/in/arnavsen2468?original_referer=https%3A%2F%2Fwww.google.com%2F)
+## 📬 Reach Out
+- Email: [arnavsen999@gmail.com](mailto:arnavsen999@gmail.com)  
+- LinkedIn: [in/arnavsen2468](https://in.linkedin.com/in/arnavsen2468)
 
-
-## ⚡ Fun Fact:
-- I love to **drink water**, **coffee**, and **watch trees** 🌳☕💧
-- The simple things in life keep me grounded and inspired. 🌿
-
----
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House 🖥️💬
+## ⚡ Fun Fact
+You will never see me and Batman in the same room.
+I drink a lot of black coffee, enjoy watching trees (seriously), and believe that clarity in code — like in life — is underrated.
 
 ---
 
-✨ Let's connect and create something amazing together! 🚀
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+---
+
+Let’s build something meaningful. 🚀
