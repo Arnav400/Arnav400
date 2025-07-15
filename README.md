@@ -22,8 +22,9 @@ I'm a developer who enjoys solving real problems with clean, efficient code. Whe
 - LinkedIn: [in/arnavsen2468](https://in.linkedin.com/in/arnavsen2468)
 
 ## ⚡ Fun Fact
-You will never see me and Batman in the same room.
-I drink a lot of black coffee, enjoy watching trees (seriously), and believe that clarity in code — like in life — is underrated.
+- You will never see me and Batman in the same room. 
+- I like black coffee, enjoy watching trees (seriously), and believe that clarity in code — like in life — is underrated.
+
 
 ---
 
